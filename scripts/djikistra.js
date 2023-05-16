@@ -1,3 +1,5 @@
+import { mancha } from "./mancha.js";
+
 export async function Dijkstras(graph, start, parent) {
   let parentNode = parent;
   const table = {};
