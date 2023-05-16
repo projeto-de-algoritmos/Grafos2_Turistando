@@ -30,7 +30,7 @@ Clone o repositório e execute o server utilizando a extensão Live Server no se
 
 Também é possível executar diretamente em seu navegador (caso tenha o projeto clonado em sua máquina), apenas copiando o path do arquivo index.html.
 
-## Video da Apresentação
-[<img src="https://img.youtube.com/vi/_ufO_GZV1fw/maxresdefault.jpg%22%3E](https://youtu.be/_ufO_GZV1fw)
+## Video da Apresentação  
+[<img src="https://img.youtube.com/vi/_ufO_GZV1fw/maxresdefault.jpg">](https://youtu.be/_ufO_GZV1fw)
 
 [Link do Vídeo](https://youtu.be/_ufO_GZV1fw)
