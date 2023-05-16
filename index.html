@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Algoritmo de Djikistra</title>
+    <link rel="stylesheet" href="./style.css">
+    <script type="module" src="./scripts/main.js" defer></script>
+  </head>
+  <body>
+    <nav>
+      <button class="clear-walls">Remover Paredes</button>
+      <button class="clear-path">Remover Caminho</button>
+      <button class="reiniciar">Reiniciar</button>
+      <button class="construir">Rodar</button>
+    </nav>
+    <p>
+      O WAVE é um programa interativo para demonstrar o funcionamento do 
+      Algoritmo Dijkstra. Nele você pode observar a onda se dissipando 
+      conforme o algoritmo trabalha para achar o menor caminho. Você também pode
+      desenhar as paredes e formar um labirinto.
+    </p>
+    <div style="display: none;" class="switch-container">
+    <label class="switch">
+      <input class="switch-checkbox" type="checkbox">
+    </label>
+</div>
+  <section class="visualizador"></section>
+  </body>
+</html>

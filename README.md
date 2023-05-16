@@ -1,45 +1,36 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+# Wave
+**Número da Lista**: 41<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0124581  |  Hugo Aragão de Oliveira |
+| 20/2015984  |  Breno Henrique de Souza |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O Projeto Wave tem como objetivo demonstrar o funcionamento do algoritmo de dijkstra de forma interativa.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Tela inicial:
+<img src="images/inicio.png" alt="">
+Tela inicial com caminho gerado:
+<img src="images/caminho.png" alt="">
+Mostrando com paredes colocadas pelo usuário:
+<img src="images/aleatorio.png" alt="">
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Javascript<br>
+**Framework**: Não foi utilizado<br>
+
+Para rodar o projeto é necessário ter acesso a internet para clonar o repositório, e ter um navegador instalado no computador(de preferência chrome ou edge), para rodar o projeto localmente.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Clone o repositório e execute o server utilizando a extensão Live Server no seu VsCode. A porta local é informada pela própria extensão quando executado.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Também é possível executar diretamente em seu navegador (caso tenha o projeto clonado em sua máquina), apenas copiando o path do arquivo index.html.
 
+## Video da Apresentação  
+[<img src="https://img.youtube.com/vi/_ufO_GZV1fw/maxresdefault.jpg">](https://youtu.be/_ufO_GZV1fw)
 
-
-
+[Link do Vídeo](https://youtu.be/_ufO_GZV1fw)
