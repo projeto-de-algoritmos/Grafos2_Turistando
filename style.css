@@ -11,6 +11,13 @@ body {
   background-color: #191f24;
 }
 
+p {
+  color: bisque;
+  display: flex;
+  text-align: center;
+  font-size: 28px;
+}
+
 nav {
   display: flex;
   flex-wrap: wrap;
